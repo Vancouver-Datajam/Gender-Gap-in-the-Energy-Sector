@@ -14,7 +14,9 @@ Team lead: Sowndarya
 
 Mentor: Justin
 
-Documentation:
+Documentation: https://docs.google.com/document/d/1RK842uNC7g5heHSvITcC3PMXHdrMXrTW/edit?usp=sharing&ouid=102316587411431700561&rtpof=true&sd=true
+
+Wireframe: https://docs.google.com/spreadsheets/d/1C18Qq0F8pofZR0dds0VOPAuDqru4ptuL/edit?usp=sharing&ouid=102316587411431700561&rtpof=true&sd=true
 
 Scripting:
 
