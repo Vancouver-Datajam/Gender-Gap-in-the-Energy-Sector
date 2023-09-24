@@ -9,7 +9,7 @@ print('Cleaning data...')
 # drop irrelevant columns
 drop_columns = ['DGUID', 'UOM', 'UOM_ID', 'SCALAR_FACTOR', 'SCALAR_ID',
                 'VECTOR', 'COORDINATE', 'STATUS', 'SYMBOL', 'TERMINATED',
-                'DECIMALS', 'Type of corporation']
+                'DECIMALS']
 df = df_raw.drop(columns=drop_columns)
 
 # strip extra whitespace
@@ -27,8 +27,9 @@ country_total = df['Country of control'] != 'Total all countries'
 industry_total = df['Industry'] != 'Total all industries'
 size_total = df['Size of enterprise'] != 'Total all sizes'
 exec_total = df['Executive'] != 'All officers'
+corp_total = df['Type of corporation'] != 'Total all corporations'
 
-filters = [geo_total, country_total, industry_total, size_total, exec_total]
+filters = [geo_total, country_total, industry_total, size_total, exec_total, corp_total]
 for filter in filters:
     df = df[filter]
 
