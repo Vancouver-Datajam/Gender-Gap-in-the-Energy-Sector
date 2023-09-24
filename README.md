@@ -13,7 +13,7 @@ Team lead: Sowndarya
 
 Mentor: Justin
 
-Hacker Squad:  Ashley Warner, Ben Warner, Riya Shaju, Tom Kudlicka, Finn Pham, Amani
+Hacker Squad:  Ashley Nicole Warner, Ben Marsh, Riya Lla Shaju, Tom Kudlicka, Finn PM, Amani Mahamoor
 
 ## Problem Statement
 
