@@ -13,7 +13,7 @@ Team lead: Sowndarya
 
 Mentor: Justin
 
-Team :  Tom Kudlicka, Pham Q Tuan, Ashley Warner, Ben Warner, Riya Shaju, Amani
+Hacker Squad:  Ashley Warner, Ben Warner, Riya Shaju, Tom Kudlicka, Finn Pham, Amani
 
 ## Problem Statement
 
@@ -32,8 +32,6 @@ Short-Term Predictive Analysis: Conduct a basic predictive analytics model to fo
 Cleaned Dataset: A ready-to-analyze, gender-disaggregated dataset focused on the energy sector and other key industries.
 
 Descriptive Statistics and Visualizations: Summary statistics and basic interactive visualizations.
-
-Predictive Model: A simple predictive analytics model forecasting short-term trends in gender representation within the energy sector.
 
 Summary Report: A concise report outlining key findings and offering preliminary recommendations for improving gender balance in decision-making roles across sectors.
 
@@ -62,14 +60,13 @@ b. Insight Generation
 Draw insights from the comparative analysis to understand the relative positioning of the energy sector in gender representation.
 
 
-
 4. Report Generation (P0)
 a. Summary Report Preparation
 Compile key findings, insights, and visualizations into a concise and comprehensive report.
 Offer preliminary recommendations based on the data insights for improving gender representation.
 b. Review and Refinement
 Review the report for accuracy, clarity, and coherence.
-Refine the content to ensure it is compelling and actionable for stakeholders.
+Refine the content to ensure it is compelling and actionable.
 
 5. Final Presentation Preparation (P0)
 a. Presentation Development
@@ -78,7 +75,7 @@ Incorporate visual aids and interactive elements to enhance audience engagement.
 
 
 ## Non-Goals (Scope Limitations):
-Long-Term Forecasting: Due to the 40-hour constraint, this project will not aim to provide long-term forecasts of gender representation in the energy sector or other industries.
+Long-Term Forecasting: Due to the 21-hour constraint, this project will not aim to provide long-term forecasts of gender representation in the energy sector or other industries.
 
 Policy Recommendations: Although the focus is on gender disparity and its potential influence on climate policies, we won't be able to delve into specific policy recommendations given the time frame.
 
@@ -108,7 +105,7 @@ Top officers: The top officer category consists of individuals who occupy one of
 
 Other officers: The other officer category consists of individuals who occupy one of the following positions: secretary, assistant secretary, treasurer, assistant treasurer, secretary-treasurer, controller, auditor, and others.
 
-Size (assets): Company size was determined by assets, then classified by quartiles. More specifically, smaller firms were classified in the first quartile, small-to-medium companies were classified in the second quartile, medium-to-large firms were classified in the third quartile and larger firms were classified in the fourth quartile.
+Size (assets): Company size was determined by assets, then classified by quartiles. More specifically, smaller firms were classified in the first quartile, small-to-medium companies in the second quartile, medium-to-large firms in the third quartile, and larger firms in the fourth quartile.
 
 
 
