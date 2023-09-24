@@ -35,7 +35,11 @@ Descriptive Statistics and Visualizations: Summary statistics and basic interact
 
 Summary Report: A concise report outlining key findings and offering preliminary recommendations for improving gender balance in decision-making roles across sectors.
 
+Final Report: https://docs.google.com/presentation/d/1ZSHszrYPUztrxIfYbKtlsk5MbeIiT4No/edit?usp=drive_link&ouid=102316587411431700561&rtpof=true&sd=true
 
+Dashboard 1(Overview): https://public.tableau.com/views/DataJam-GenderinEnergy/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+Dashboard 2(Gender Gap by Province): https://public.tableau.com/views/DataJam-GenderinEnergyMaps/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
+Dashboard 3(By Corporate characteristic): https://public.tableau.com/views/DataJam-GenderinEnergyDashboard3/Dashboard3?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Detailed Methods for the objectives:
 
