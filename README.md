@@ -13,7 +13,7 @@ Team lead: Sowndarya
 
 Mentor: Justin
 
-Hacker Squad:  Ashley Nicole Warner, Ben Marsh, Riya Lla Shaju, Tom Kudlicka, Finn PM, Amani Mahamoor
+Hacker Squad:  Ashley Nicole Warner, Ben Marsh, Riya Eliza Shaju, Tom Kudlicka, Finn PM, Amani Mahamoor
 
 ## Problem Statement
 
@@ -53,7 +53,7 @@ Conduct initial exploratory data analysis (EDA) to understand the distributions 
 
 2. Descriptive Analysis and Visualization
 a. Descriptive Statistical Analysis (P0)
-Calculate the percentage representation of women in leadership roles across energy and non energy sectors.
+Calculate the percentage representation of women in leadership roles across energy and non-energy sectors.
 Analyze the variance and disparity within and across industries, company sizes, and provinces.
 b. Interactive Data Visualization (P0)
 Develop intuitive and user-friendly dashboards using visualization tools like Tableau or Power BI.
